@@ -1,6 +1,4 @@
 
-<p dir="auto"><a href="#"><img width="100%" height="350" src="https://www.elegantthemes.com/blog/wp-content/uploads/2019/05/featured-wordpress-rest-api.png" data-canonical-src="https://i.imgur.com/iXuL1HG.png" style="max-width: 100%;"></a></p>
-
 <h1 align="center">Hi 👋, I'm Mohit Verma</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitverma007&label=Profile%20views&color=0e75b6&style=flat" alt="mohitverma007" /> </p>
